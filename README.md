@@ -114,6 +114,14 @@ Aplicação prática das regras durante a partida.
 Coleta de feedback dos participantes.
 
 # 📷 Registro das Evidências
-Registro em fotos e vídeos do processo.
+Registro em fotos do processo.
+
+### [Criação dos Barcos](2152b8cc-f18e-4407-88fe-14f044771c77.jpg)
+
+### [Criação do Tabuleiro](2c5928d9-6ca1-433d-9174-d3f961737874.jpg)
+
+### [Posicionamento dos Barcos](2f2eeee3-87e4-4393-9c1e-5cb7401f740d.jpg)
+
+### [Materiais Utilizados](e7fd0aff-3913-40c6-9112-16f2697c0d41.jpg)
 
 
