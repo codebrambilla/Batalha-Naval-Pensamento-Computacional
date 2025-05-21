@@ -1,5 +1,5 @@
 # 📘 Jogo de Batalha Naval – Projeto de Pensamento Computacional
-Projeto desenvolvido para aplicar os pilares do pensamento computacional através de um jogo de batalha naval, utilizando materiais recicláveis. O projeto busca explorar as habilidades de resolução de problemas e raciocínio lógico de maneira criativa.
+O projeto Batalha Naval foi criado com o objetivo de aplicar os conceitos de pensamento computacional de forma prática e divertida, utilizando materiais acessíveis e recicláveis. A ideia central foi transformar um jogo clássico em uma ferramenta educativa, capaz de estimular habilidades como lógica, estratégia e resolução de problemas.
 
 ## 🎯 Objetivo do Jogo
 O objetivo do Batalha Naval é afundar todos os barcos do adversário. Cada jogador possui uma frota composta por 5 barcos, e deve localizar e destruir os barcos do oponente, enquanto protege os seus.
@@ -76,4 +76,44 @@ Abstração envolve simplificar e focar nos aspectos importantes do problema. Ne
 
 • O jogo continua até que um jogador afunde toda a frota adversária.
 
-## 📸 Estrutura do Projeto
+## 🔨 Etapas de Criação
+### 1. Planejamento
+Escolha do jogo (Batalha Naval) como base para o projeto.
+
+Definição do objetivo educacional: aplicar os pilares do pensamento computacional.
+
+Levantamento dos materiais necessários, com foco em itens recicláveis.
+
+### 2. Coleta de Materiais
+Separação de papelão, cartolina, canetas, folhas e materiais reutilizáveis.
+
+Organização dos materiais em kits para cada aluno.
+
+### 3. Construção do Tabuleiro
+Recorte do papelão no tamanho desejado.
+
+Desenho da grade 7x7 no tabuleiro com letras e números para coordenadas.
+
+Aplicação da cartolina e decoração visual.
+
+### 4. Criação dos Barcos
+Recorte e montagem dos barcos com papelão, papel ou outros materiais recicláveis.
+
+Nomeação dos barcos com linguagens de programação (ex: Python, JavaScript).
+
+### 5. Definição das Regras
+Adaptação das regras clássicas do jogo Batalha Naval.
+
+Inclusão de elementos computacionais, como o uso do "bug" para representar acertos.
+
+### 6. Execução do Jogo
+Distribuição dos tabuleiros e barcos entre os jogadores.
+
+Aplicação prática das regras durante a partida.
+
+Coleta de feedback dos participantes.
+
+# 📷 Registro das Evidências
+Registro em fotos e vídeos do processo.
+
+
